@@ -67,12 +67,12 @@ Empowering the New World of Work through AI-Powered Web & Mobile Experiences
   <img src="https://raw.githubusercontent.com/RAYYANHASSAN321/RAYYANHASSAN321/main/output/snake.svg" alt="Snake animation" />
 </p>
 
+
 <p align="center">
-  <!-- GitHub Streak -->
-  ![GitHub Streak](https://readme-streak-stats.herokuapp.com/?user=RAYYANHASSAN321&theme=radical)
+  <img src="https://readme-streak-stats.herokuapp.com/?user=RAYYANHASSAN321&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- GitHub Contribution Chart -->
-  ![Rayyan's GitHub chart](https://ghchart.rshah.org/RAYYANHASSAN321)
+  <img src="https://ghchart.rshah.org/RAYYANHASSAN321" alt="GitHub Contribution Chart" />
 </p>
+
