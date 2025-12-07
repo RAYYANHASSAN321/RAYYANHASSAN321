@@ -61,6 +61,8 @@ Empowering the New World of Work through AI-Powered Web & Mobile Experiences
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 🚀 Projects
+- **HMS (Node.js, React.js & MongoDB):** A complete hotel managment system  
+- **Ecomerce (Node.js, React.js & MongoDB):** A complete ecommerce platform  
 - **Rapid Rescue (PHP & MySQL):** Ambulance & emergency services platform  
 - **SRC Travel Agency (ASP.NET MVC):** Bus ticket reservation system  
 - **Citiguide (Flutter):** City guide & attractions app  
