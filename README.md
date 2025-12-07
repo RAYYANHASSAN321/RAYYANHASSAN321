@@ -34,7 +34,7 @@ Empowering the New World of Work through AI-Powered Web & Mobile Experiences
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyan-hassan-840215289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/RAYYANHASSAN321)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rayyanhassan@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rayyanhassan1688@example.com)
 
 ---
 
@@ -60,19 +60,33 @@ Empowering the New World of Work through AI-Powered Web & Mobile Experiences
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
+# 🚀 Projects
+- **Rapid Rescue (PHP & MySQL):** Ambulance & emergency services platform  
+- **SRC Travel Agency (ASP.NET MVC):** Bus ticket reservation system  
+- **Citiguide (Flutter):** City guide & attractions app  
+- **ZeroWaste Connect (Flutter & Firebase):** Local item sharing platform  
+
 ---
 
-<p align="center">
-  <!-- Snake animation placeholder (agar future me upload karoge) -->
-  <img src="https://raw.githubusercontent.com/RAYYANHASSAN321/RAYYANHASSAN321/main/output/snake.svg" alt="Snake animation" />
-</p>
+# 🏆 Achievements
+- **TechWiz Jury Award (International):** Recognized for excellence in technology projects  
 
+---
 
-<p align="center">
-  <img src="https://readme-streak-stats.herokuapp.com/?user=RAYYANHASSAN321&theme=radical" alt="GitHub Streak" />
-</p>
+# 📚 Currently Learning
+- **R Programming** for data analysis & statistics  
+- **Python** for scripting and automation  
+- **AI & Machine Learning** concepts & applications  
+- Advanced **AI Integrations & Cloud Deployments**  
+- **Next.js 14** and server-side rendering optimization  
+- **Microservices & API scalability**  
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/RAYYANHASSAN321" alt="GitHub Contribution Chart" />
-</p>
+---
+
+# 🎯 Hobbies & Interests
+- Exploring **new technologies & frameworks**  
+- Contributing to **open-source projects**  
+- **AI, ML, and futuristic mobile apps**  
+- Learning **data science and analytics**  
+- Building **creative web & mobile solutions**  
 
