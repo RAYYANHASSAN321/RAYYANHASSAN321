@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="300"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Rayyan Hassan</h1>
 <h3 align="center">Full-Stack Developer | Flutter & Web Enthusiast</h3>
@@ -54,23 +56,6 @@ Passionate about clean code, scalable design patterns, and seamless user experie
 <a href="#"><img src="https://img.shields.io/badge/Bus%20Ticket%20Reservation-ASP.NET%20MVC-blue?style=for-the-badge"/></a>
 <a href="#"><img src="https://img.shields.io/badge/ZeroWaste%20Connect-Flutter%20%2B%20Firebase-green?style=for-the-badge"/></a>
 <a href="#"><img src="https://img.shields.io/badge/CityGuide-Flutter%2BCloudinary-orange?style=for-the-badge"/></a>
-</p>
-
----
-
-## <p align="center">GitHub Stats</p>
-
-<p align="center">
-![Rayyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAYYANHASSAN321&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAYYANHASSAN321&layout=compact&theme=radical)
-</p>
-
----
-
-## <p align="center">👀 Visitors</p>
-
-<p align="center">
-![Visitor Count](https://profile-counter.glitch.me/RAYYANHASSAN321/count.svg)
 </p>
 
 ---
