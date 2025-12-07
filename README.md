@@ -83,10 +83,8 @@ Empowering the New World of Work through AI-Powered Web & Mobile Experiences
 
 ---
 
-# 🎯 Hobbies & Interests
-- Exploring **new technologies & frameworks**  
-- Contributing to **open-source projects**  
-- **AI, ML, and futuristic mobile apps**  
-- Learning **data science and analytics**  
-- Building **creative web & mobile solutions**  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RAYYANHASSAN321/RAYYANHASSAN321/output/snake.svg" alt="Snake Animation" />
+</p>
+
 
