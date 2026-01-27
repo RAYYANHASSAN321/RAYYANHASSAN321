@@ -24,8 +24,7 @@ Empowering the New World of Work through AI-Powered Web & Mobile Experiences
 
 # 💫 About Me:
 🌟 Full-Stack Developer skilled in building robust web & mobile apps using **Flutter, React.js, Next.js, Angular.js, Node.js, PHP, ASP.NET, and C#.**  
-🧩 Experience in **Serverless architectures (Firebase, Vercel), API development, AI & Cloud integrations, and payment gateways.**  
-🔄 Skilled in **DevOps practices**: CI/CD, Docker, automated deployments, GitHub Actions.  
+🧩 Experience in **Serverless architectures (Firebase, Vercel), API development.**  
 ⚡ Passionate about **creating scalable and clean code solutions** for real-world applications.  
 📈 Advocate for clean code, scalable design patterns, and collaborative Agile development.  
 
@@ -56,7 +55,6 @@ Empowering the New World of Work through AI-Powered Web & Mobile Experiences
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
