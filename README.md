@@ -308,8 +308,25 @@ I believe in lifelong learning. Currently expanding my expertise in:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAYYANHASSAN321&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYYANHASSAN321&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RAYYANHASSAN321&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring=2C9F6F&title_color=2C9F6F">
+    <img src="https://github-readme-stats.vercel.app/api?username=RAYYANHASSAN321&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYYANHASSAN321&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2C9F6F">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYYANHASSAN321&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=RAYYANHASSAN321&theme=radical&hide_border=true&background=0D1117&ring=2C9F6F&fire=2C9F6F&currStreakLabel=2C9F6F">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAYYANHASSAN321&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="70%" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RAYYANHASSAN321&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="98%" />
 </p>
 
 <p align="center">
