@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C9F6F,100:1a5c3a&height=180&section=header&text=Rayyan%20Hassan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=MERN%20%26%20MEAN%20Specialist%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=55&descAlign=50"/>
-
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=2C9F6F&center=true&vCenter=true&random=false&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Rayyan+Hassan;Architecting+High-Performance+Digital+Solutions;AI%2FML+Innovation+%26+Full-Stack+Excellence;Crafting+Impactful+Technology+That+Drives+Results" alt="Typing SVG" />
 
 <br/><br/>
@@ -414,7 +410,6 @@ A cross-platform mobile app providing real-time parking availability with GPS an
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RAYYANHASSAN321&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2C9F6F&icon_color=2C9F6F&text_color=FFFFFF" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAYYANHASSAN321&theme=radical&hide_border=true&background=0D1117&ring=2C9F6F&fire=2C9F6F&currStreakLabel=2C9F6F" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
