@@ -406,6 +406,14 @@ A cross-platform mobile app providing real-time parking availability with GPS an
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RAYYANHASSAN321/RAYYANHASSAN321/output/snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
 ## 📬 Get In Touch
 
 <div align="center">
