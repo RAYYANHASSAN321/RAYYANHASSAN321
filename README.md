@@ -406,30 +406,6 @@ A cross-platform mobile app providing real-time parking availability with GPS an
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAYYANHASSAN321&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2C9F6F&icon_color=2C9F6F&text_color=FFFFFF" alt="GitHub Stats" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAYYANHASSAN321&theme=react-dark&hide_border=true&bg_color=0D1117&color=2C9F6F&line=2C9F6F&point=FFFFFF" alt="Contribution Graph" width="95%"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/RAYYANHASSAN321"><img src="https://img.shields.io/badge/Visit_GitHub_Profile-2C9F6F?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub"/></a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RAYYANHASSAN321/RAYYANHASSAN321/output/snake.svg" alt="Snake Animation" />
-</p>
-
----
-
 ## 📬 Get In Touch
 
 <div align="center">
