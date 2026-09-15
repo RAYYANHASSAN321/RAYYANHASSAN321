@@ -1,15 +1,5 @@
 <div align="center">
 
-<a href="https://rayyan-hassan.vercel.app/">
-  <img
-    src="https://rayyan-hassan.vercel.app/_next/static/immutable/media/logo.0xi8tr6im-llx.png"
-    alt="Rayyan Hassan Logo"
-    width="170"
-  />
-</a>
-
-<br/><br/>
-
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=088F8F&center=true&vCenter=true&random=false&width=850&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Rayyan+Hassan;Full-Stack+Developer;Building+Scalable+Digital+Solutions;AI%2FML+Innovation+%26+Full-Stack+Excellence;Turning+Ideas+Into+Real-World+Products"
   alt="Typing SVG"
@@ -90,7 +80,7 @@ Specializing in architecting **high-performance, scalable digital solutions** wi
   alt="Rayyan Hassan"
 />
 
-## Crafting Digital Experiences with Purpose
+# Crafting Digital Experiences with Purpose
 
 I'm **Rayyan Hassan**, a passionate **Full-Stack Developer** from **Pakistan 🇵🇰** with a strong foundation in building modern web applications, high-performance AI/ML systems, scalable backend architectures, and cross-platform mobile applications.
 
@@ -546,49 +536,6 @@ A parking-management mobile application providing real-time parking availability
 🔗 [GitHub Repository](https://github.com/RAYYANHASSAN321/Smart-Park.git)
 
 </details>
-
----
-
-# 💻 GitHub Activity
-
-<div align="center">
-
-### Building, Learning & Contributing
-
-I actively work on personal, academic, collaborative, and open-source projects while continuously expanding my technical knowledge.
-
-<br/>
-
-![Repositories](https://img.shields.io/badge/Repositories-25+-088F8F?style=for-the-badge&logo=github)
-![Commits](https://img.shields.io/badge/Commits-400+-088F8F?style=for-the-badge&logo=git)
-![Projects](https://img.shields.io/badge/Projects-30+-088F8F?style=for-the-badge&logo=codeproject)
-
-<br/><br/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=RAYYANHASSAN321&show_icons=true&theme=transparent&title_color=088F8F&icon_color=088F8F&text_color=f0f4ff&border_color=088F8F&hide_border=false"
-  alt="Rayyan Hassan GitHub Stats"
-  height="180"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYYANHASSAN321&layout=compact&theme=transparent&title_color=088F8F&text_color=f0f4ff&border_color=088F8F&hide_border=false"
-  alt="Top Languages"
-  height="180"
-/>
-
-<br/><br/>
-
-<img
-  src="https://ghchart.rshah.org/088F8F/RAYYANHASSAN321"
-  alt="GitHub Contribution Chart"
-/>
-
-<br/><br/>
-
-[![Visit GitHub](https://img.shields.io/badge/Visit_GitHub_Profile-RAYYANHASSAN321-181717?style=for-the-badge&logo=github)](https://github.com/RAYYANHASSAN321)
-
-</div>
 
 ---
 
