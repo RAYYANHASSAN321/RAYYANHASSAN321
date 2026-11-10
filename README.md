@@ -1,22 +1,37 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=088F8F&center=true&vCenter=true&random=false&width=850&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Rayyan+Hassan;Full-Stack+Developer;Building+Scalable+Digital+Solutions;AI%2FML+Innovation+%26+Full-Stack+Excellence;Turning+Ideas+Into+Real-World+Products"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:088F8F,100:043c3c&height=140&section=header&text=Rayyan%20Hassan&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20%C2%B7%20Mobile&descAlignY=55&descSize=16"
+  alt="Rayyan Hassan header"
+/>
+
+<br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=088F8F&center=true&vCenter=true&random=false&width=900&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Rayyan+Hassan;Full-Stack+Software+Developer;Laravel+%C2%B7+Next.js+%C2%B7+Flutter+%C2%B7+Node.js;Building+Scalable+Digital+Products"
   alt="Typing SVG"
 />
 
 <br/>
 
+<img
+  src="https://rayyanhassan.runs-on.dev/_next/static/immutable/media/Rayyan-hassan-profile.2dm4rt8x-l1fu.png"
+  width="220"
+  alt="Rayyan Hassan"
+  style="border-radius:50%"
+/>
+
+<br/><br/>
+
 ### Full-Stack Developer · AI/ML Enthusiast · Mobile App Developer
 
-Specializing in architecting **high-performance, scalable digital solutions** with a strong focus on  
-**Full-Stack Development, AI/ML, modern UI/UX, APIs, cloud infrastructure, and mobile applications.**
+Building reliable web & mobile products with **Laravel / PHP**, **Next.js / React**, **Flutter / Dart**, **Node.js**, **REST APIs**, and cloud deployments.
 
 <br/>
 
-[![Available for Work](https://img.shields.io/badge/🟢_Available_for_Work-Hire_Me-088F8F?style=for-the-badge)](https://rayyan-hassan.vercel.app/hire)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://rayyan-hassan.vercel.app/)
-[![Download CV](https://img.shields.io/badge/📄_Download_CV-Resume-088F8F?style=for-the-badge&logo=googledocs&logoColor=white)](https://rayyan-hassan.vercel.app/)
+[![Available for Work](https://img.shields.io/badge/🟢_Available_for_Work-Hire_Me-088F8F?style=for-the-badge)](https://rayyanhassan.runs-on.dev/hire)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://rayyanhassan.runs-on.dev/)
+[![Download CV](https://img.shields.io/badge/📄_Download_CV-Resume-088F8F?style=for-the-badge&logo=googledocs&logoColor=white)](https://rayyanhassan.runs-on.dev/)
 
 <br/>
 
@@ -43,9 +58,9 @@ Specializing in architecting **high-performance, scalable digital solutions** wi
 
 <div align="center">
 
-| 🚀 Projects | 🧰 Tech Stacks | 🎓 Education | 💻 Repositories | ⚡ Commits |
+| 🚀 Projects | 🧰 Tech Stacks | 🎓 Education | 💼 Current Role | 📍 Location |
 |:---:|:---:|:---:|:---:|:---:|
-| **30+** | **15+** | **ACCP Prime Diploma** | **25+** | **400+** |
+| **30+** | **15+** | **BSCM + ADSE** | **Full-Stack @ Kloz Labs** | **Karachi, Pakistan 🇵🇰** |
 
 </div>
 
@@ -55,17 +70,16 @@ Specializing in architecting **high-performance, scalable digital solutions** wi
 
 <div align="center">
 
-[![Home](https://img.shields.io/badge/🏠_Home-088F8F?style=flat-square)](https://rayyan-hassan.vercel.app/#home)
-[![About](https://img.shields.io/badge/👤_About-088F8F?style=flat-square)](https://rayyan-hassan.vercel.app/#about)
-[![Skills](https://img.shields.io/badge/🛠️_Skills-088F8F?style=flat-square)](https://rayyan-hassan.vercel.app/#skills)
-[![Projects](https://img.shields.io/badge/🚀_Projects-088F8F?style=flat-square)](https://rayyan-hassan.vercel.app/#projects)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-088F8F?style=flat-square)](https://rayyan-hassan.vercel.app/#github)
-[![Articles](https://img.shields.io/badge/📝_Articles-088F8F?style=flat-square)](https://rayyan-hassan.vercel.app/articles)
-[![Education](https://img.shields.io/badge/🎓_Education-088F8F?style=flat-square)](https://rayyan-hassan.vercel.app/education)
-[![Experience](https://img.shields.io/badge/💼_Experience-088F8F?style=flat-square)](https://rayyan-hassan.vercel.app/experience)
-[![Certificates](https://img.shields.io/badge/🏆_Certificates-088F8F?style=flat-square)](https://rayyan-hassan.vercel.app/certificates)
-[![Contact](https://img.shields.io/badge/📬_Contact-088F8F?style=flat-square)](https://rayyan-hassan.vercel.app/contact)
-[![Hire Me](https://img.shields.io/badge/✨_Hire_Me-088F8F?style=flat-square)](https://rayyan-hassan.vercel.app/hire)
+[![Home](https://img.shields.io/badge/🏠_Home-088F8F?style=flat-square)](https://rayyanhassan.runs-on.dev/#home)
+[![About](https://img.shields.io/badge/👤_About-088F8F?style=flat-square)](https://rayyanhassan.runs-on.dev/#about)
+[![Skills](https://img.shields.io/badge/🛠️_Skills-088F8F?style=flat-square)](https://rayyanhassan.runs-on.dev/skills)
+[![Projects](https://img.shields.io/badge/🚀_Projects-088F8F?style=flat-square)](https://rayyanhassan.runs-on.dev/projects)
+[![Education](https://img.shields.io/badge/🎓_Education-088F8F?style=flat-square)](https://rayyanhassan.runs-on.dev/education)
+[![Experience](https://img.shields.io/badge/💼_Experience-088F8F?style=flat-square)](https://rayyanhassan.runs-on.dev/experience)
+[![Certificates](https://img.shields.io/badge/🏆_Certificates-088F8F?style=flat-square)](https://rayyanhassan.runs-on.dev/certificates)
+[![Articles](https://img.shields.io/badge/📝_Articles-088F8F?style=flat-square)](https://rayyanhassan.runs-on.dev/articles)
+[![Contact](https://img.shields.io/badge/📬_Contact-088F8F?style=flat-square)](https://rayyanhassan.runs-on.dev/contact)
+[![Hire Me](https://img.shields.io/badge/✨_Hire_Me-088F8F?style=flat-square)](https://rayyanhassan.runs-on.dev/hire)
 
 </div>
 
@@ -73,24 +87,9 @@ Specializing in architecting **high-performance, scalable digital solutions** wi
 
 # 👨‍💻 About Me
 
-<img
-  align="right"
-  width="300"
-  src="https://rayyan-hassan.vercel.app/_next/static/immutable/media/Rayyan-profile.292bks-ygt7xo.png"
-  alt="Rayyan Hassan"
-/>
+I'm **Rayyan Hassan**, a Full-Stack Software Developer from **Pakistan 🇵🇰** focused on building reliable, scalable web and mobile applications. I work across backend, frontend, and mobile — choosing the right tools and architecture for each product rather than limiting solutions to a single stack.
 
-# Crafting Digital Experiences with Purpose
-
-I'm **Rayyan Hassan**, a passionate **Full-Stack Developer** from **Pakistan 🇵🇰** with a strong foundation in building modern web applications, high-performance AI/ML systems, scalable backend architectures, and cross-platform mobile applications.
-
-I specialize in the **MERN and MEAN ecosystems** and enjoy transforming ideas into robust digital products — from clean, responsive frontends to scalable APIs, databases, cloud deployments, intelligent systems, and complete business applications.
-
-My development journey spans technologies such as **TypeScript, JavaScript, React, Next.js, Node.js, Python, Flutter, PHP, SQL, and cloud platforms**.
-
-I also work extensively with **RESTful APIs**, authentication systems, real-time communication, database architecture, deployment pipelines, AI/ML workflows, and modern UI/UX technologies such as **Tailwind CSS** and **Framer Motion**.
-
-<br clear="right"/>
+My core toolkit spans **Laravel & PHP**, **Next.js & React**, **Flutter & Dart**, **Node.js**, and **REST APIs**. I enjoy turning real-world requirements into maintainable systems, thoughtful user experiences, and dependable integrations — from database design and APIs to responsive interfaces, mobile apps, CI/CD, and cloud deployment on **AWS** and similar platforms.
 
 <div align="center">
 
@@ -99,6 +98,171 @@ I also work extensively with **RESTful APIs**, authentication systems, real-time
 ![Team Player](https://img.shields.io/badge/🤝_Team_Player-088F8F?style=flat-square)
 ![AI Enthusiast](https://img.shields.io/badge/🤖_AI_Enthusiast-088F8F?style=flat-square)
 ![Open Source](https://img.shields.io/badge/🌐_Open_Source_Lover-088F8F?style=flat-square)
+![Available Worldwide](https://img.shields.io/badge/🌍_Available_Worldwide-088F8F?style=flat-square)
+
+</div>
+
+---
+
+# 💼 Experience
+
+> Synced from my portfolio — real roles across full-stack, mobile, and frontend development.
+
+<table>
+<tr>
+<td width="72" valign="top">
+<img src="./assets/companies/kloz_labs.jpg" width="56" alt="Kloz Labs"/>
+</td>
+<td>
+
+### [Kloz Labs](https://www.klozlabs.com/) — Full-Stack Developer
+**Present** · Karachi, Pakistan (Remote) · `Current`
+
+Working end-to-end on web and mobile apps with **Laravel**, **Flutter**, and **Dart** — UI, backend APIs, databases, deployment, and maintenance.
+
+`Laravel` · `PHP` · `Flutter` · `Dart` · `REST APIs` · `Database Management` · `Laragon` · `Git`
+
+</td>
+</tr>
+
+<tr>
+<td width="72" valign="top">
+<img src="./assets/companies/nexal-it-services.png" width="56" alt="Nexal IT Services"/>
+</td>
+<td>
+
+### [Nexal IT Services](https://nexalitservices.com/) — Full-Stack Developer (MERN & MEAN)
+**Feb 2026** · Full-Time · Karachi, Pakistan (Onsite)
+
+Built scalable web apps across **MERN** and **MEAN** stacks — React/Angular frontends, Node/Express APIs, MongoDB/MySQL, and cloud basics.
+
+`MongoDB` · `Express` · `React` · `Angular` · `Node.js` · `MySQL` · `REST APIs` · `AWS` · `Git`
+
+<br/>
+
+### Nexal IT Services — Full-Stack Developer (Internship)
+**Nov 2025 – Feb 2026** · Internship · Karachi, Pakistan (Onsite)
+
+Hands-on internship on real-world web apps across frontend and backend.
+
+`HTML` · `CSS` · `JavaScript` · `React.js` · `Node.js` · `PHP` · `MySQL` · `MongoDB` · `Git`
+
+</td>
+</tr>
+
+<tr>
+<td width="72" valign="top">
+<img src="./assets/companies/anomoz-softwares.png" width="56" alt="Anomoz Softwares"/>
+</td>
+<td>
+
+### [Anomoz Softwares](https://www.anomoz.com/) — PHP Developer (Internship)
+**Dec 2024** · Internship · Karachi, Pakistan (Onsite)
+
+PHP-focused internship on collaborative full-stack web applications.
+
+`PHP` · `HTML` · `CSS` · `JavaScript` · `React.js` · `Node.js` · `MySQL` · `MongoDB` · `Git`
+
+</td>
+</tr>
+
+<tr>
+<td width="72" valign="top">
+<img src="./assets/companies/joybox-pakistan.png" width="56" alt="JoyBox Pakistan"/>
+</td>
+<td>
+
+### [JoyBox Pakistan](https://www.linkedin.com/company/jbbox/posts/?feedView=all) — Junior Front-End Developer (Internship)
+**Feb 2024 – April 2024** · Paid Internship · Karachi, Pakistan (Onsite)
+
+3-month paid internship focused on responsive UI implementation and modern frontend workflows in Agile teams.
+
+`HTML` · `CSS` · `JavaScript` · `Bootstrap` · `Tailwind CSS` · `Material-UI` · `Git`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Full Experience](https://img.shields.io/badge/💼_View_Full_Experience-088F8F?style=for-the-badge)](https://rayyanhassan.runs-on.dev/experience)
+
+</div>
+
+---
+
+# 🎓 Education
+
+<table>
+<tr>
+<td width="72" valign="top">
+<img src="./assets/education/university-of-karachi.png" width="56" alt="University of Karachi"/>
+</td>
+<td>
+
+### Bachelor of Computational Mathematics (BSCM)
+**University of Karachi** · 2026 – Present · `In Progress` · Graduation Degree
+
+Building a blend of mathematical logic, scientific computing, and software skills — Python, C++, algorithms, numerical analysis, data science, and ML foundations.
+
+`Python` · `C++` · `DSA` · `OOP` · `Scientific Computing` · `Numerical Analysis` · `Data Science` · `Machine Learning` · `AI`
+
+</td>
+</tr>
+
+<tr>
+<td width="72" valign="top">
+<img src="./assets/education/aptech.png" width="56" alt="Aptech Learning"/>
+</td>
+<td>
+
+### Advanced Diploma in Software Engineering (ADSE)
+**Aptech Learning** · 2023 – 2026 · `Completed` · Professional Diploma  
+ACCP AI Career Program — Full-Stack, Mobile & AI Engineering
+
+Completed the ACCP AI Career Program covering full-stack web, Flutter apps, databases, Azure cloud, and applied AI/ML with Python.
+
+`JavaScript` · `TypeScript` · `React` · `Node.js` · `MERN` · `PHP` · `Laravel` · `C#` · `.NET` · `Flutter` · `Python` · `MySQL` · `MongoDB` · `Azure` · `ML` · `NLP`
+
+</td>
+</tr>
+
+<tr>
+<td width="72" valign="top">
+<img src="./assets/education/siraj-ul-daulah.png" width="56" alt="Siraj-Ul-Daulah College"/>
+</td>
+<td>
+
+### HSSC (Computer Science)
+**Siraj-Ul-Daulah Government Degree College** · 2023 – 2025 · `Completed`
+
+Foundation of programming logic and mathematical foundations of computing.
+
+`C++` · `Data Structures` · `Logic Building`
+
+</td>
+</tr>
+
+<tr>
+<td width="72" valign="top">
+<img src="./assets/education/quaid-e-azam-rangers.png" width="56" alt="Quaid-e-Azam Rangers School"/>
+</td>
+<td>
+
+### SSC (Computer Science)
+**Quaid-e-Azam Rangers School** · 2021 – 2023 · `Completed`
+
+Initial exposure to computer science fundamentals and problem-solving.
+
+`Computer Basics` · `Algorithms` · `Mathematics`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Full Education](https://img.shields.io/badge/🎓_View_Full_Education-088F8F?style=for-the-badge)](https://rayyanhassan.runs-on.dev/education)
 
 </div>
 
@@ -106,9 +270,7 @@ I also work extensively with **RESTful APIs**, authentication systems, real-time
 
 # 🛠️ Skills & Technologies
 
-> A curated set of technologies and tools I use to build scalable, modern, secure, and high-performance applications.
-
----
+> A curated set of technologies I use to build scalable, modern, secure, and high-performance applications.
 
 ## 💻 Languages
 
@@ -124,9 +286,7 @@ I also work extensively with **RESTful APIs**, authentication systems, real-time
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
----
-
-## 🎨 Frontend Development
+## 🎨 Frontend
 
 ![Next.js](https://img.shields.io/badge/Next.js_14_App_Router-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -139,11 +299,7 @@ I also work extensively with **RESTful APIs**, authentication systems, real-time
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-**Additional Frontend Skills**
-
-`Chart.js` · `Recharts` · `PWA` · `SEO / Meta Tags` · `Webpack` · `Vite` · `Responsive UI` · `Accessibility` · `UI/UX Principles` · `Lucide React` · `clsx` · `tailwind-merge`
-
----
+`Chart.js` · `Recharts` · `PWA` · `SEO / Meta Tags` · `Webpack` · `Vite` · `Responsive UI` · `Accessibility` · `UI/UX` · `Lucide React`
 
 ## ⚙️ Backend & APIs
 
@@ -158,11 +314,7 @@ I also work extensively with **RESTful APIs**, authentication systems, real-time
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 
-**Backend Architecture**
-
 `REST APIs` · `Next.js API Routes` · `Microservices` · `Webhooks` · `Rate Limiting` · `Swagger / OpenAPI`
-
----
 
 ## 🗄️ Database & Caching
 
@@ -174,30 +326,23 @@ I also work extensively with **RESTful APIs**, authentication systems, real-time
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-`Mongoose` · `TypeORM` · `SQL` · `NoSQL` · `Schema Design` · `Query Optimization`
-
----
+`Mongoose` · `TypeORM` · `Schema Design` · `Query Optimization`
 
 ## 🤖 AI / Machine Learning
 
-![Python](https://img.shields.io/badge/Python_AI-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 `Machine Learning` · `Data Processing` · `Generative AI` · `Prompt Engineering` · `AI Image Generation` · `AI Video Generation`
 
----
-
-## 📊 Data & Business Intelligence
+## 📊 Data & BI
 
 ![Tableau](https://img.shields.io/badge/Tableau_Desktop-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 `Data Visualization` · `Business Intelligence` · `Dashboards`
 
----
-
-## ☁️ DevOps, Cloud & Infrastructure
+## ☁️ DevOps, Cloud & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -211,11 +356,9 @@ I also work extensively with **RESTful APIs**, authentication systems, real-time
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-`CI/CD` · `Linux Server` · `PM2` · `SSL / Domains` · `Railway` · `Render` · `Netlify` · `Hostinger VPS` · `Windows VPS` · `GoDaddy`
+`CI/CD` · `Linux Server` · `PM2` · `Railway` · `Render` · `Netlify` · `Hostinger VPS` · `Postman` · `Cloudinary`
 
----
-
-## 📱 Mobile Development
+## 📱 Mobile
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -223,53 +366,28 @@ I also work extensively with **RESTful APIs**, authentication systems, real-time
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase_SDK-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-`GetX` · `Bloc` · `React Navigation` · `AsyncStorage` · `Push Notifications` · `Deep Linking` · `App Store Publishing` · `Play Store Publishing` · `Cross-Platform Development`
+`GetX` · `Bloc` · `Push Notifications` · `Deep Linking` · `App Store / Play Store Publishing` · `Cross-Platform`
 
----
-
-## 🔐 Authentication & Security
+## 🔐 Auth, Security & Testing
 
 ![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-`OAuth 2.0` · `RBAC` · `2FA` · `bcryptjs` · `Zod` · `OWASP Basics` · `HTTPS / CORS` · `Helmet`
-
----
-
-## 🧪 Testing
-
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-`React Testing Library` · `Postman Collections` · `Unit Testing`
+`OAuth 2.0` · `RBAC` · `2FA` · `Zod` · `OWASP Basics` · `Helmet` · `React Testing Library`
 
----
-
-## 💳 Payments & Business Systems
+## 💳 Payments & Integrations
 
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)
 
-`JazzCash` · `EasyPaisa` · `Invoice Systems` · `Multi-Tenant Applications`
-
----
-
-## 🔌 Integrations & APIs
-
-`Gmail API` · `Notion API` · `Slack Webhooks` · `WhatsApp Cloud API` · `Cloudinary` · `Resend` · `Google OAuth 2.0`
-
----
-
-## 📢 Social Media & Content
-
-`Social Media Page Handling` · `Content Strategy` · `Page Management` · `Community Engagement`
-
----
+`JazzCash` · `EasyPaisa` · `Invoice Systems` · `Multi-tenant Apps` · `Gmail API` · `Notion API` · `Slack Webhooks` · `WhatsApp Cloud API` · `Resend`
 
 ## 🤝 Soft Skills
 
-`Problem Solving` · `Debugging` · `Adaptability` · `Communication` · `Teamwork` · `Ownership` · `Quick Learning` · `Cross-Functional Collaboration` · `Code Review` · `Client Communication` · `Requirement Gathering` · `Documentation`
+`Problem-Solving` · `Debugging` · `Adaptability` · `Communication` · `Teamwork` · `Ownership` · `Quick Learner` · `Code Review` · `Client Communication` · `Requirement Gathering` · `Documentation`
 
 ---
 
@@ -277,82 +395,41 @@ I also work extensively with **RESTful APIs**, authentication systems, real-time
 
 <div align="right">
 
-[![View All Projects](https://img.shields.io/badge/View_All_Projects-088F8F?style=for-the-badge&logo=rocket&logoColor=white)](https://rayyan-hassan.vercel.app/projects)
+[![View All Projects](https://img.shields.io/badge/View_All_Projects-088F8F?style=for-the-badge&logo=rocket&logoColor=white)](https://rayyanhassan.runs-on.dev/projects)
 
 </div>
 
----
+## 🌍 Global Business Partners — `Live` · Monorepo Suite
 
-## 🌍 Global Business Partners
+Monorepo suite covering public website, admin panel, vendor portal, and startup app from a shared application base.
 
-**Status:** `Live` · `Monorepo Suite`
+**Stack:** `Web App` · `Dashboard` · `Vendor Portal` · `Startup Portal` · `Monorepo`  
+🔗 [Live Site](https://digitalpakistangroup.com/)
 
-A monorepo suite for **Global Business Partners** covering the public website, admin panel, vendor portal, and startup application from a shared application base.
+## 🌎 EarthScape Climate Agency — `AI + ML`
 
-The platform supports brand presentation, operational workflows, partner management, and multiple application experiences within a structured ecosystem.
+AI-powered climate awareness platform with ML models, predictions, and interactive dashboards.
 
-### Key Areas
+**Stack:** `Python` · `Flask` · `Machine Learning` · `HTML` · `CSS` · `JavaScript`  
+🔗 [GitHub](https://github.com/RAYYANHASSAN321/EarthScape-Climate-Agency) · [Live](https://earth-scape-climate-agency.vercel.app/)
 
-- Public-facing business website
-- Admin panel
-- Vendor portal
-- Startup portal
-- Shared monorepo architecture
-- Responsive user experience
-- Conversion-focused design
-- Production deployment
+## 🏢 Nexal IT Services Web App — `Live`
 
-**Technologies:**  
-`Next.js` · `React` · `TypeScript` · `Monorepo` · `Web Application`
+Corporate digital services website for web & app development, AI solutions, marketing, and e-commerce.
 
----
+🔗 [Live Site](https://nexalitservices.com/)
 
-## 🌎 EarthScape Climate Agency
+## ✨ RenewMe Wellness Platform — `Live`
 
-**AI + Machine Learning Project**  
-**Mar 2026 – Apr 2026**
+Wellness platform with guided meditations, mood tracking, and partner experiences.
 
-An AI-powered climate awareness and environmental monitoring platform built to analyze environmental datasets, identify patterns, generate predictions, and visualize climate-related insights.
+🔗 [Live Site](https://myrenewme.com/)
 
-### Key Features
+## ✈️ TravelApp & Chemi Travels — `Live`
 
-- Environmental dataset analysis
-- Machine-learning models
-- Climate prediction features
-- Temperature and air-quality information
-- Environmental trend analysis
-- Interactive dashboards
-- Climate awareness content
-- Data visualization
+Full travel platforms covering hotels, tickets, packages, visas, and booking journeys.
 
-**Technologies:**  
-`Python` · `Flask` · `Machine Learning` · `scikit-learn` · `Pandas` · `HTML` · `CSS` · `JavaScript`
-
-[![Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github)](https://github.com/RAYYANHASSAN321/EarthScape-Climate-Agency)
-
----
-
-## 🐍 Flask Web Application
-
-**Python / Flask Project**  
-**Jan 2026 – Feb 2026**
-
-A Flask-based web application demonstrating core Python backend development concepts including routing, templating, virtual environments, dependency management, and modular application architecture.
-
-### Key Features
-
-- Python backend
-- Flask routing
-- HTML templates
-- Static assets
-- Virtual environment
-- Dependency management
-- Modular project structure
-
-**Technologies:**  
-`Python 3` · `Flask` · `HTML` · `CSS`
-
-[![Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github)](https://github.com/RAYYANHASSAN321/Flask-Web-App)
+🔗 [TravelApp](https://travel-app-frontend-snowy.vercel.app/) · [Chemi Travels](https://chemitravels.com/)
 
 ---
 
@@ -363,89 +440,10 @@ A Flask-based web application demonstrating core Python backend development conc
 
 <br/>
 
-A full-stack hotel management system designed for handling hotel operations including rooms, customers, staff, reservations, and billing.
+Full-stack hotel management for rooms, customers, staff, reservations, and billing with Admin / Staff / Customer roles.
 
-### Features
-
-- Room booking and management
-- Availability checking
-- Customer management
-- Staff management
-- Billing and invoicing
-- Admin, staff, and customer roles
-
-**Technologies:** `PHP` · `MySQL` · `HTML` · `CSS`
-
-🔗 [GitHub Repository](https://github.com/RAYYANHASSAN321/HMS.git)
-
-</details>
-
-<details>
-<summary><strong>💄 Online Cosmetics Web Application</strong></summary>
-
-<br/>
-
-An e-commerce platform for browsing, managing, and purchasing beauty products.
-
-### Features
-
-- Authentication
-- Product listings
-- Product details
-- Shopping cart
-- Checkout
-- Admin dashboard
-- Product management
-- Category management
-- Order management
-
-**Technologies:** `PHP` · `MySQL` · `HTML` · `CSS`
-
-🔗 [GitHub Repository](https://github.com/RAYYANHASSAN321/COSMETICS_WEB_APP)
-
-</details>
-
-<details>
-<summary><strong>🚑 Rapid Rescue</strong></summary>
-
-<br/>
-
-An emergency-response application allowing users to submit rescue requests through a responsive web interface.
-
-### Features
-
-- User authentication
-- Rescue request submission
-- Request tracking
-- Admin management
-- Responsive interface
-
-**Technologies:** `PHP` · `MySQL` · `HTML` · `CSS`
-
-🔗 [GitHub Repository](https://github.com/RAYYANHASSAN321/Rapid-Rescue.git)
-
-</details>
-
-<details>
-<summary><strong>📅 Online Reservation System</strong></summary>
-
-<br/>
-
-A full-stack online reservation platform for creating and managing bookings.
-
-### Features
-
-- User authentication
-- Create reservations
-- View reservations
-- Update bookings
-- Cancel reservations
-- Admin dashboard
-- Customer management
-
-**Technologies:** `PHP` · `MySQL` · `HTML` · `CSS`
-
-🔗 [GitHub Repository](https://github.com/RAYYANHASSAN321/Online-Reservation-System.git)
+**Tech:** `PHP` · `MySQL` · `HTML` · `CSS` · `Bootstrap`  
+🔗 [GitHub](https://github.com/RAYYANHASSAN321/HMS)
 
 </details>
 
@@ -454,19 +452,10 @@ A full-stack online reservation platform for creating and managing bookings.
 
 <br/>
 
-A collaborative cross-platform mobile application for pet-care management.
+Cross-platform pet-care mobile app — profiles, care tracking, reminders. Team of 4.
 
-### Features
-
-- Pet profiles
-- Care routine tracking
-- Reminders
-- Cross-platform development
-- Collaborative development workflow
-
-**Technologies:** `Flutter` · `Dart`
-
-🔗 [GitHub Repository](https://github.com/donatedsalt/PawfectCare.git)
+**Tech:** `Flutter` · `Dart` · `Firebase` · `Firestore`  
+🔗 [GitHub](https://github.com/donatedsalt/PawfectCare)
 
 </details>
 
@@ -475,19 +464,10 @@ A collaborative cross-platform mobile application for pet-care management.
 
 <br/>
 
-A collaborative travel-budgeting application for planning trips and managing expenses.
+Collaborative travel budgeting app for trip planning and group expenses.
 
-### Features
-
-- Trip planning
-- Cost estimation
-- Expense tracking
-- Budget management
-- Group travel support
-
-**Technologies:** `Flutter` · `Dart`
-
-🔗 [GitHub Repository](https://github.com/donatedsalt/TripBudgeter.git)
+**Tech:** `Flutter` · `Dart` · `Firebase`  
+🔗 [GitHub](https://github.com/donatedsalt/TripBudgeter)
 
 </details>
 
@@ -496,22 +476,10 @@ A collaborative travel-budgeting application for planning trips and managing exp
 
 <br/>
 
-A cross-platform mobile application for discovering cities, attractions, and travel information.
+City exploration app with listings, filters, favorites, and map navigation.
 
-### Features
-
-- Firebase authentication
-- Firestore database
-- City listings
-- Attraction details
-- Search and filtering
-- Favorites
-- Map integration
-- Real-time navigation
-
-**Technologies:** `Flutter` · `Dart` · `Firebase` · `Location Services`
-
-🔗 [GitHub Repository](https://github.com/RAYYANHASSAN321/Citi_Guide.git)
+**Tech:** `Flutter` · `Dart` · `Firebase` · `Google Maps`  
+🔗 [GitHub](https://github.com/RAYYANHASSAN321/Citi_Guide)
 
 </details>
 
@@ -520,33 +488,82 @@ A cross-platform mobile application for discovering cities, attractions, and tra
 
 <br/>
 
-A parking-management mobile application providing real-time parking availability with GPS and map navigation.
+Smart parking app with real-time availability, GPS booking, and reservations.
 
-### Features
+**Tech:** `Flutter` · `Dart` · `Firebase` · `Google Maps API`  
+🔗 [GitHub](https://github.com/RAYYANHASSAN321/Smart-Park)
 
-- Android and iOS support
-- Firebase authentication
-- Real-time parking availability
-- GPS navigation
-- Parking reservations
-- Location management
+</details>
 
-**Technologies:** `Flutter` · `Dart` · `Firebase` · `Map Integration`
+<details>
+<summary><strong>🚑 Rapid Rescue</strong></summary>
 
-🔗 [GitHub Repository](https://github.com/RAYYANHASSAN321/Smart-Park.git)
+<br/>
+
+Emergency-response web app with auth, request tracking, and admin panel.
+
+**Tech:** `PHP` · `MySQL` · `HTML` · `CSS` · `Bootstrap`  
+🔗 [GitHub](https://github.com/RAYYANHASSAN321/Rapid-Rescue)
+
+</details>
+
+<details>
+<summary><strong>📅 Online Reservation System</strong></summary>
+
+<br/>
+
+Reservation platform with auth, CRUD bookings, and admin dashboard.
+
+**Tech:** `PHP` · `MySQL` · `HTML` · `CSS`  
+🔗 [GitHub](https://github.com/RAYYANHASSAN321/Online-Reservation-System)
+
+</details>
+
+<details>
+<summary><strong>💄 Online Cosmetics Web Application</strong></summary>
+
+<br/>
+
+E-commerce for beauty products — listings, cart, checkout, and admin dashboard.
+
+**Tech:** `PHP` · `MySQL` · `HTML` · `CSS`  
+🔗 [GitHub](https://github.com/RAYYANHASSAN321/COSMETICS_WEB_APP)
+
+</details>
+
+<details>
+<summary><strong>🌐 More Live Client Sites</strong></summary>
+
+<br/>
+
+- [Web Development Wizards](https://webdevelopmentwizards.com/)
+- [Voltrix Publishers](https://voltrixpublishers.com/)
+- [Website Yard](https://websiteyard.com/)
+- [eBooks Studio](https://ebooksstudio.com/)
+- [RenewMe Affiliate Dashboard](https://affiliate.myrenewme.com/auth/login)
+- [Attendance Tracking App](https://nexal-attendance-app.vercel.app/)
 
 </details>
 
 ---
 
-# 🏆 Achievements & Recognition
+# 🏆 Certificates & Recognition
 
-| Achievement | Description |
-|---|---|
-| 🥇 **TechWiz Jury Award** | International recognition for excellence in technology projects |
-| 🌐 **Open Source Contributor** | Participation in community-driven and collaborative development projects |
-| 💻 **Full-Stack Development Certifications** | Certifications covering modern web technologies and development practices |
-| 🎓 **ACCP Prime Diploma** | Professional diploma in advanced computing |
+| Certificate | Issuer | Year |
+|---|---|---|
+| 🛡️ Introduction to Cybersecurity | Cisco Networking Academy | 2026 |
+| 🥇 TechWiz5 APTECH Techa Event | APTECH Learning / Plexus Programmers | 2024 |
+| 💻 Full-Stack Developer Internship Completion | Nexal IT Services | 2026 |
+| 🎨 Junior Frontend Developer Internship | JoyBox Pakistan | 2024 |
+| 📘 Google Soft Skills Certification | Google | 2024 |
+| 🌱 Personality Development & Self-Discovery | EasyLife | 2025 |
+| 🗣️ Personality Development Course | Growbiz Network | 2025 |
+
+<div align="center">
+
+[![Certificates](https://img.shields.io/badge/🏆_View_All_Certificates-088F8F?style=for-the-badge)](https://rayyanhassan.runs-on.dev/certificates)
+
+</div>
 
 ---
 
@@ -563,26 +580,11 @@ A parking-management mobile application providing real-time parking availability
 
 ---
 
-# 📚 Explore More
-
-<div align="center">
-
-[![Articles](https://img.shields.io/badge/📝_Read_My_Articles-088F8F?style=for-the-badge)](https://rayyan-hassan.vercel.app/articles)
-[![Education](https://img.shields.io/badge/🎓_My_Education-088F8F?style=for-the-badge)](https://rayyan-hassan.vercel.app/education)
-[![Experience](https://img.shields.io/badge/💼_My_Experience-088F8F?style=for-the-badge)](https://rayyan-hassan.vercel.app/experience)
-[![Certificates](https://img.shields.io/badge/🏆_Certificates-088F8F?style=for-the-badge)](https://rayyan-hassan.vercel.app/certificates)
-
-</div>
-
----
-
 # 📬 Get In Touch
 
 <div align="center">
 
-I'm always open to connecting with developers, teams, businesses, and organizations interested in building meaningful digital products.
-
-Whether you're looking for a **full-stack developer, web application developer, backend developer, mobile developer, or technical collaborator**, feel free to reach out.
+Open to roles and collaborations as a **full-stack**, **web**, **backend**, or **mobile** developer.
 
 <br/>
 
@@ -593,8 +595,8 @@ Whether you're looking for a **full-stack developer, web application developer, 
 
 <br/>
 
-[![Hire Me](https://img.shields.io/badge/✨_Let's_Work_Together-Hire_Me-088F8F?style=for-the-badge)](https://rayyan-hassan.vercel.app/hire)
-[![Contact Me](https://img.shields.io/badge/📬_Contact_Me-Send_Message-088F8F?style=for-the-badge)](https://rayyan-hassan.vercel.app/contact)
+[![Hire Me](https://img.shields.io/badge/✨_Let's_Work_Together-Hire_Me-088F8F?style=for-the-badge)](https://rayyanhassan.runs-on.dev/hire)
+[![Contact Me](https://img.shields.io/badge/📬_Contact_Me-Send_Message-088F8F?style=for-the-badge)](https://rayyanhassan.runs-on.dev/contact)
 
 </div>
 
@@ -611,27 +613,22 @@ Whether you're looking for a **full-stack developer, web application developer, 
 
 ### ⚡ Build. Learn. Improve. Repeat.
 
-<i>
-"Code is poetry, and I strive to write verses that make a difference."
-</i>
-
-<br/><br/>
-
-**Rayyan Hassan**  
-Full-Stack Developer
-
-[Portfolio](https://rayyan-hassan.vercel.app/) •
-[GitHub](https://github.com/RAYYANHASSAN321) •
-[LinkedIn](https://pk.linkedin.com/in/rayyanhasn) •
-[Contact](https://rayyan-hassan.vercel.app/contact)
+*"Code is poetry, and I strive to write verses that make a difference."*
 
 <br/>
 
-<sub>
-© 2026 Rayyan Hassan · All Rights Reserved
-</sub>
+**Rayyan Hassan** · Full-Stack Developer
 
-<br/><br/>
+[Portfolio](https://rayyanhassan.runs-on.dev/) ·
+[GitHub](https://github.com/RAYYANHASSAN321) ·
+[LinkedIn](https://pk.linkedin.com/in/rayyanhasn) ·
+[Contact](https://rayyanhassan.runs-on.dev/contact)
+
+<br/>
+
+<sub>© 2026 Rayyan Hassan · All Rights Reserved</sub>
+
+<br/>
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:088F8F,100:043c3c&height=100&section=footer"
