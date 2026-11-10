@@ -1,54 +1,56 @@
-<div align="center">
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:088F8F,100:043c3c&height=120&section=header"
+  width="100%"
+  alt="header wave"
+/>
+
+<table>
+<tr>
+<td width="38%" align="center" valign="middle">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:088F8F,100:043c3c&height=140&section=header&text=Rayyan%20Hassan&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20%C2%B7%20Mobile&descAlignY=55&descSize=16"
-  alt="Rayyan Hassan header"
+  src="https://rayyanhassan.runs-on.dev/_next/static/immutable/media/Rayyan-hassan-profile.2dm4rt8x-l1fu.png"
+  width="260"
+  alt="Rayyan Hassan"
 />
 
 <br/>
 
+![Available](https://img.shields.io/badge/●_Available_for_Work-088F8F?style=flat-square)
+
+</td>
+<td width="62%" valign="middle">
+
+### Hi, I'm **Rayyan Hassan** 👋
+
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=088F8F&center=true&vCenter=true&random=false&width=900&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Rayyan+Hassan;Full-Stack+Software+Developer;Laravel+%C2%B7+Next.js+%C2%B7+Flutter+%C2%B7+Node.js;Building+Scalable+Digital+Products"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=088F8F&vCenter=true&width=520&height=40&lines=Full-Stack+Software+Developer;Laravel+%7C+Next.js+%7C+Flutter+%7C+Node.js;AI%2FML+Enthusiast+%26+Mobile+Dev;Building+Scalable+Products"
   alt="Typing SVG"
 />
 
 <br/>
 
-<img
-  src="https://rayyanhassan.runs-on.dev/_next/static/immutable/media/Rayyan-hassan-profile.2dm4rt8x-l1fu.png"
-  width="220"
-  alt="Rayyan Hassan"
-  style="border-radius:50%"
-/>
+**Full-Stack Developer** · AI/ML · Mobile Apps  
+Karachi, Pakistan 🇵🇰 · Currently at **[Kloz Labs](https://www.klozlabs.com/)**
 
-<br/><br/>
-
-### Full-Stack Developer · AI/ML Enthusiast · Mobile App Developer
-
-Building reliable web & mobile products with **Laravel / PHP**, **Next.js / React**, **Flutter / Dart**, **Node.js**, **REST APIs**, and cloud deployments.
+Building reliable web & mobile products with Laravel, Next.js, Flutter, Node.js, REST APIs, and cloud deployments.
 
 <br/>
 
-[![Available for Work](https://img.shields.io/badge/🟢_Available_for_Work-Hire_Me-088F8F?style=for-the-badge)](https://rayyanhassan.runs-on.dev/hire)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://rayyanhassan.runs-on.dev/)
-[![Download CV](https://img.shields.io/badge/📄_Download_CV-Resume-088F8F?style=for-the-badge&logo=googledocs&logoColor=white)](https://rayyanhassan.runs-on.dev/)
+[![Hire Me](https://img.shields.io/badge/✨_Hire_Me-088F8F?style=for-the-badge)](https://rayyanhassan.runs-on.dev/hire)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://rayyanhassan.runs-on.dev/)
+[![CV](https://img.shields.io/badge/📄_CV-088F8F?style=for-the-badge&logo=googledocs&logoColor=white)](https://rayyanhassan.runs-on.dev/)
 
 <br/>
 
-<a href="https://github.com/RAYYANHASSAN321">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://pk.linkedin.com/in/rayyanhasn">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://wa.me/923491833008">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-<a href="mailto:rayyanhassan1688@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RAYYANHASSAN321)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/rayyanhasn)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923491833008)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rayyanhassan1688@gmail.com)
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
